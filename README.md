@@ -1,5 +1,5 @@
 ﻿# vue-music
-
+音乐播放器
 ## Build Setup
 
 ``` bash
@@ -15,5 +15,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-音乐播放器
+
 
